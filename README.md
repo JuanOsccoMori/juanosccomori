@@ -1,7 +1,12 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanosccomori&show_icons=true&theme=dark)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanosccomori&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanosccomori&layout=compact&theme=dark&show_icons=true"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanosccomori&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](
+
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **juanosccomori/juanosccomori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
