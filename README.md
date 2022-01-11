@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanosccomori&layout=compact&theme=dark&show_icons=true"/>
 </div>
 
-<div>
+<div style="display: inline-block"><br/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 </div>
 
