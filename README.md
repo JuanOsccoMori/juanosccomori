@@ -18,7 +18,7 @@
   <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 </div>
 
-![Snake animation](https://github.com/JuanOsccoMori/JuanOsccoMori/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/JuanOsccoMori/JuanOsccoMori/blob/output/github-contribution-grid-snake.gif)
 <!--
 **juanosccomori/juanosccomori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
