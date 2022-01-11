@@ -1,5 +1,5 @@
 ## Hi there :wave:
-<br/>
+
 My name is juan and i'm a developer
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanosccomori&show_icons=true&theme=dark"/>
