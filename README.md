@@ -4,7 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanosccomori&layout=compact&theme=dark&show_icons=true"/>
 </div>
 
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+</div>
 
 <!--
 **juanosccomori/juanosccomori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
