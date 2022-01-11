@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanosccomori&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanosccomori&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanosccomori&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
